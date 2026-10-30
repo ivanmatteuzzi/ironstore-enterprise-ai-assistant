@@ -1,0 +1,7 @@
+pypdf==6.21.4
+langchain-text-splitters>=1.1,<2
+langchain-openai>=1.6,<2
+langchain-chroma>=1.1,<2
+python-dotenv>=1.0,<2
+tiktoken>=0.8,<1
+chainlit>=2.12,<3

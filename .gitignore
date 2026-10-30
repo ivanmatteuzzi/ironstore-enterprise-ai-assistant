@@ -1,0 +1,38 @@
+# Environment variables and secrets
+.env
+.env.*
+
+!.env.example
+
+# Python virtual environments
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local vector database
+storage/
+
+# Internal company documents
+documents/
+
+# Operating system
+.DS_Store
+Thumbs.db
+
+# Generated audit reports
+reports/
+
+# Chainlit generated translations
+.chainlit/translations/
+
+# Generated audit reports
+reports/
+
+# Chainlit generated translations
+.chainlit/translations/
